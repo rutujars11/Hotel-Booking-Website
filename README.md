@@ -1,1 +1,2 @@
 # Hotel-Booking-Website
+The purpose of this project is to create a functional website for users to reserve hotel rooms across the world. Users of this website will be able to use an easy-to-use interface to search, sort, and reserve rooms and services across the world. One of the main purposes of this project is to allow customers to book rooms and other services online with registered business partners. The basic requirements state that users will be able to search for rooms based on specific criteria and make instant online payments.
